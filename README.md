@@ -21,6 +21,9 @@ Project consists of installing TCP Dump on a Linux system. TCP Dump is used to a
 
 ![install](https://github.com/jasondasho/Install-TCPDump/assets/94137942/6e1e7ccf-e8b0-4fd2-b572-a46607cf5337)
 
+![list of installed packages](https://github.com/jasondasho/Install-TCPDump/assets/94137942/c6a4e2e2-e4fe-4582-bb12-53cb5d64f9bd)
+
+
 Type "ipconfig"  <br/>
 
 Results<br/>
