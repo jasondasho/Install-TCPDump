@@ -17,10 +17,10 @@ Project consists of installing TCP Dump on a Linux system. TCP Dump is used to a
 
 <p align="center">
 
-![]
+![install tcpdump](https://github.com/jasondasho/Install-TCPDump/assets/94137942/cfc7f242-06f9-4edd-9334-0f59caf0806c)
+
 
 Type "ipconfig"  <br/>
-![]
 
 Results<br/>
 ![]
