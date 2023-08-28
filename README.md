@@ -17,11 +17,11 @@ Project consists of installing TCP Dump on a Linux system. TCP Dump is used to a
 
 <p align="center">
 
-![](https://github.com/jasondasho/Find-IP-Lab/assets/94137942/867646ff-c221-4549-a3fd-c2544b61d402)
+![]
 
 Type "ipconfig"  <br/>
-![](https://github.com/jasondasho/Find-IP-Lab/assets/94137942/da96713d-477b-474e-8030-4574e4e608f4)
+![]
 
 Results<br/>
-![](https://github.com/jasondasho/Find-IP-Lab/assets/94137942/d91ad277-e2ac-4d61-8648-b3927befbe19)
+![]
 </p>
